@@ -4,6 +4,7 @@
 
 #a =float(100)
 #print(type(a))
+#coverting to decimal places {:.2f}.format
 
 one = input("two digit number")
 digit_one=one[0]
